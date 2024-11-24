@@ -15,6 +15,7 @@ go/go.sum
 go/tmp/
 build/extraResources/java-app.jar
 build/extraResources/jre1.8.0_201/
+build/extraResources/py
 python/.venv/
 python/*.spec
 python/build/
